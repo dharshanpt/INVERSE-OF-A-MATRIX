@@ -18,6 +18,8 @@ b=np.linalg.inv(a);
 print(b)
 ```
 ## Output:
+![Screenshot 2023-12-13 140133](https://github.com/dharshanpt/INVERSE-OF-A-MATRIX/assets/138849376/57fd6d78-eab3-4014-89f7-81f3aa9fc4c9)
+
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
